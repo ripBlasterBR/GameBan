@@ -1,3 +1,3 @@
 return {
-    [2619882153] = { Motivo = "Comportamento tóxico" },
+    [5022564739] = { Motivo = "Comportamento tóxico" },
 }
